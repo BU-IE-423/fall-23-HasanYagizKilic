@@ -1,16 +1,12 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to My GitHub Page
 
 ### Markdown
 
 ```markdown
-Welcome to my progress journal!
+Welcome to my IE 423 progress journal!
 I am Hasan Yağız Kılıç
 
-[IE423 Project 1 html file]([url](https://github.com/BU-IE-423/fall-23-HasanYagizKilic/blob/main/423_Project_1.html))
-[IE423 Project 1 ipynb file]([src](https://github.com/BU-IE-423/fall-23-HasanYagizKilic/blob/main/423_Project_1.ipynb)https://github.com/BU-IE-423/fall-23-HasanYagizKilic/blob/main/423_Project_1.ipynb)
+[IE423 Project 1 html file](https://github.com/BU-IE-423/fall-23-HasanYagizKilic/blob/main/423_Project_1.html)
+[IE423 Project 1 ipynb file](https://github.com/BU-IE-423/fall-23-HasanYagizKilic/blob/main/423_Project_1.ipynb)
 ```
 
