@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Welcome to my progress journal!
 I am Hasan Yağız Kılıç
 
-[IE423 Project 1 html file](url)
-[IE423 Project 1 ipynb file](src)
+[IE423 Project 1 html file]([url](https://github.com/BU-IE-423/fall-23-HasanYagizKilic/blob/main/423_Project_1.html))
+[IE423 Project 1 ipynb file]([src](https://github.com/BU-IE-423/fall-23-HasanYagizKilic/blob/main/423_Project_1.ipynb)https://github.com/BU-IE-423/fall-23-HasanYagizKilic/blob/main/423_Project_1.ipynb)
 ```
 
