@@ -8,3 +8,6 @@ Hasan Yağız Kılıç
 ```
 [IE423 Project 1 html file](423_Project_1.html)\
 [IE423 Project 1 ipynb file](423_Project_1.ipynb)
+
+[423 Project 2 html file](ie423_part2.html)\
+[IE423 Project 2 ipynb file](ie423_part2.ipynb)
